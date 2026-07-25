@@ -42,7 +42,6 @@ O YourFreelas busca aproximar empresas e profissionais através de um modelo ond
 
 - HTML
 - CSS
-- JavaScript
 - Ferramentas de Inteligência Artificial como apoio no desenvolvimento
 
 ## 📚 Objetivos do projeto
