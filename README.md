@@ -59,6 +59,8 @@ O YourFreelas busca aproximar empresas e profissionais através de um modelo ond
 - Desenvolvimento do ambiente de projetos
 
 ## 📷 Imagens do projeto
+<img width="1337" height="620" alt="image" src="https://github.com/user-attachments/assets/0b735b96-4888-4856-89aa-dc87b1e91bfa" />
+
 
 
 ## 👨‍💻 Autor
